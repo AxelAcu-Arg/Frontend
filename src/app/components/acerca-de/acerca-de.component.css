@@ -16,16 +16,20 @@ div{
 
 @media(min-width: 576px){
     #fotodeperfil{
+        position: absolute;
+        width: 200px;
         border-radius: 100%;
+        margin-top: -8%;
+        margin-left: 1%;
     }
     #nombre{
         margin-top: 42%;
         text-align: center;
-        margin-left: -105%;
+        margin-left: -390%;
     }
     #titulo{
         text-align: center;
-        margin-left: -105%;
+        margin-left: -390%;
     }
 }
 
